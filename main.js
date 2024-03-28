@@ -1,3 +1,4 @@
+#! usr/bin/env node
 import inquirer from "inquirer";
 let myBalance = 10000;
 console.log(`Your current balance is ${myBalance}`);
@@ -53,5 +54,3 @@ if (myPin === pinAns.pin) {
 else {
     console.log("Wrong pin code.");
 }
-// Insufficient balance
-// fast cash
