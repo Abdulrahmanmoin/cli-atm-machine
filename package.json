@@ -1,5 +1,5 @@
 {
-  "name": "@abdulrahmanmoin/cli-atm-machine",
+  "name": "@abdulrahmanmoin/cli-based-atm-machine",
   "version": "1.0.0",
   "description": "This is a CLI-based ATM Machine. Pin Code is 1234",
   "main": "main.js",
