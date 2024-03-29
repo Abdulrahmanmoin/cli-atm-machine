@@ -1,6 +1,6 @@
 {
   "name": "@abdulrahmanmoin/cli-atm-machine",
-  "version": "2.3.0",
+  "version": "1.2.1",
   "description": "This is a CLI-based ATM Machine",
   "main": "main.js",
   "type": "module",
