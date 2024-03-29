@@ -1,10 +1,13 @@
 {
-  "name": "600-cli-atm-machine",
+  "name": "@abdulrahmanmoin/cli-atm-machine",
   "version": "2.3.0",
   "description": "This is a CLI-based ATM Machine",
   "main": "main.js",
   "type": "module",
   "bin": "main.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
